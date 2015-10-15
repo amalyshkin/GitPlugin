@@ -10,12 +10,6 @@
 ./do_build.sh -b TCCTWO-32820 --no_data --tcc_setting ftp.pasv.external.address=50.112.178.99 --ibss_run
 
 
-https://52.24.222.26/
-TCCTWO-32820 --no_data --skip_windows_server --skip_full_rebuild
-2 orgs
--b TCCTWO-32820 --ibss_run --remss_run
-9 orgs, no ibss, no remss
-x
 
 
 https://52.24.98.186/

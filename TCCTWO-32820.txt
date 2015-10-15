@@ -1,0 +1,41 @@
+  --no_data                skip importing the quick data and use an empty data set
+ --skip_windows_server     skip windows server building
+ --skip_full_rebuild       skip  dependencies rebuild with clean of dependencies and tcc server projects
+ --quick                   Same as --keep_data --skip_windows_server --skip_full_rebuild + skipping of all flex components building and copying of HCE files to filespace
+ -c, --tcc_setting         Use when you want to update rows of tcc.settings table
+
+
+./do_build.sh -b TCCTWO-32820 --skip_full_rebuild --no_data --skip_windows_server --tcc_setting ftp.pasv.external.address=50.112.178.99
+
+./do_build.sh -b TCCTWO-32820 --no_data --tcc_setting ftp.pasv.external.address=50.112.178.99 --ibss_run
+
+
+https://52.24.222.26/
+TCCTWO-32820 --no_data --skip_windows_server --skip_full_rebuild
+2 orgs
+-b TCCTWO-32820 --ibss_run --remss_run
+9 orgs, no ibss, no remss
+x
+
+
+https://52.24.98.186/
+TCCTWO-32820 --skip_windows_server --skip_full_rebuild
+9 orgs
+-b TCCTWO-32820 --no_data --ibss_run --remss_run
+9 orgs, no ibss, no remss
+X
+
+https://52.24.225.172/
+master --no_data --skip_windows_server --skip_full_rebuild
+2 orgs
+--ibss_run --remss_run
+9 orgs, ibss, remss
++
+
+
+https://52.24.214.255/
+master --skip_windows_server --skip_full_rebuild
+9 orgs
+--no_data --ibss_run --remss_run
+2 orgs, ibss, no remss
++

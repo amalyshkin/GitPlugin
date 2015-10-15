@@ -13,14 +13,13 @@ https://52.24.98.186/
 TCCTWO-32820 --skip_windows_server --skip_full_rebuild
 9 orgs
 -b TCCTWO-32820 --no_data --ibss_run --remss_run
-9 orgs, no ibss, no remss
+119 orgs, no ibss, no remss
 X
 
 sdfgsdfgsdfgsdf
 
-https://52.24.225.172/
 master --no_data --skip_windows_server --skip_full_rebuild
-2 orgs
+2 orgs https://52.24.225.172/
 --ibss_run --remss_run
 9 orgs, ibss, remss
 +

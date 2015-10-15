@@ -8,10 +8,7 @@
 ./do_build.sh -b TCCTWO-32820 --skip_full_rebuild --no_data --skip_windows_server --tcc_setting ftp.pasv.external.address=50.112.178.99
 
 ./do_build.sh -b TCCTWO-32820 --no_data --tcc_setting ftp.pasv.external.address=50.112.178.99 --ibss_run
-
-
-
-
+x
 https://52.24.98.186/
 TCCTWO-32820 --skip_windows_server --skip_full_rebuild
 9 orgs

@@ -1,7 +1,7 @@
 + 7-Zip
 ----
 + Adobe \ "Acrobat Reader DC"
-+++
++++ right
 + Android \ android-sdk 
 + apache-maven-3.3.1
 + Appium

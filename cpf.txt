@@ -3,8 +3,9 @@
 + Adobe \ "Acrobat Reader DC"
 +++ right
 + Android \ android-sdk 
-right K2
+right K1
 + Appium
+right K2
 + Apple Software Update
 + CrISStal Eye
 + Far Manager

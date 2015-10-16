@@ -1,0 +1,31 @@
++ 2gis
++ 7-Zip
++ Adobe \ "Acrobat Reader DC" 
++ Android \ android-sdk 
++ apache-maven-3.3.1
++ Appium
++ Apple Software Update
++ CrISStal Eye
++ Far Manager
+- Far2
+- Fiddler2
++ Genymobile \ Genymotion 
++ Git
+- Groovy
++ IrfanView
++ iTunes
+++ Java \ jdk1.8.0_45 jre1.8.0_45 
++ JetBrains \ "IntelliJ IDEA Community Edition 14.1.3" 
++ K-Lite Codec Pack
++ NEC-Mitsubishi
++ Notepad++
++ OpenOffice 4
++ OpenVPN Technologies \ "OpenVPN Client" 
++ Oracle \ VirtualBox 
++ PuTTY
++ S3 Browser
++ SketchUp
++ Slack
++ TechSmith \ Jing 
+- Vertigo Desktop
++ WinSCP

@@ -1,6 +1,7 @@
 empty pull request
 + 7-Zip
 ----
+866 кодироффка !
 + Adobe \ "Acrobat Reader DC"
 +++ right
 + Android \ android-sdk 

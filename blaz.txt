@@ -1,0 +1,17 @@
+1. Прогоните тесты на search (https://a.blazemeter.com/node/467443, https://a.blazemeter.com/node/467680, https://a.blazemeter.com/node/467328, https://a.blazemeter.com/node/358264)
+2. Прогоните профильный скрипт (https://a.blazemeter.com/node/1021338)
+3. Сравните результаты (Blazemeter vs google doc)
+4. Посмотрите использование памяти, CPU в Solr через Data dog
+
+11:00 3dw_warm_up_script (id: 546585) 2.9
+11:30 search_google_stat_based_200_users_binary_metadata (id: 467443) 2.11
+12:30 search_google_stat_based_200_users_sort_title (id: 467680) 2.8
+13:30 search_google_stat_based_200_users_total (id: 467328) 2.9 ?
+14:30 search_google_stat_based_200users (id: 358264) 2.12
+15:30 3dw_profile_tgroups_v2 (id: 1021338) 2.12 ?
+
+ 2.11
+ 2.8
+ 2.9
+2.11
+ 2.12

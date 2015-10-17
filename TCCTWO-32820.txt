@@ -5,6 +5,7 @@
  -c, --tcc_setting         Use when you want to update rows of tcc.settings table
 
 state K3 !!!!
+found commit
 
 ./do_build.sh -b TCCTWO-32820 --skip_full_rebuild --no_data --skip_windows_server --tcc_setting ftp.pasv.external.address=50.112.178.99
 

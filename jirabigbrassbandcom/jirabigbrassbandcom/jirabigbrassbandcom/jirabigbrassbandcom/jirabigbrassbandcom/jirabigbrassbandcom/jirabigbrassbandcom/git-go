@@ -1,0 +1,9 @@
+#!/bin/sh
+
+branch=${1:-master}
+
+if [ "$branch" != "master" ]; then
+	branch=GIT-$branch
+fi
+
+git checkout $branch

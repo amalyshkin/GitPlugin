@@ -10,5 +10,6 @@
   </jndi-datasource>
  <!-- 
 not last
+may be unindexed??
 -->
 </jira-database-config>

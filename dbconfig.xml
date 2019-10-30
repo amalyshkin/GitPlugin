@@ -8,4 +8,5 @@
   <jndi-datasource>
       <jndi-name>java:comp/env/jdbc/JiraDS</jndi-name>
   </jndi-datasource>
+ <!-- -->
 </jira-database-config>

@@ -1,7 +1,7 @@
 Postgres jira home export
 --------------------
 
-
+close to done
 
 
 1. Create a database

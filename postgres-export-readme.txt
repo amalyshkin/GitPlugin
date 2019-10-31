@@ -1,6 +1,9 @@
 Postgres jira home export
 --------------------
 
+
+
+
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+PostgreSQL
 psql

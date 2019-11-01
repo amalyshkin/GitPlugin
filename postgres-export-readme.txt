@@ -5,7 +5,7 @@ close to done
 
 again
 why no bug?
-other command?
+other command? Close!
 
 
 1. Create a database

@@ -7,6 +7,7 @@ again
 why no bug?
 other command? Close!
 may be no smacom?
+direct way
 
 
 1. Create a database

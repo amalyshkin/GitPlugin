@@ -6,6 +6,7 @@ close to done
 again
 why no bug?
 other command? Close!
+may be no smacom?
 
 
 1. Create a database

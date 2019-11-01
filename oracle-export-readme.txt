@@ -9,6 +9,7 @@ label+comment
 what in 3.1.2?
 wtf with 312?
 on local?
+direct way works!
 
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+Oracle

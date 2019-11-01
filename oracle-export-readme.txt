@@ -5,6 +5,7 @@ Oracle jira home export
 #label
 #done taki
 only existing labels??
+label+comment
 
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+Oracle

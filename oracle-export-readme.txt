@@ -2,6 +2,7 @@ Oracle jira home export
 --------------------
 
 #comment
+#label
 
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+Oracle

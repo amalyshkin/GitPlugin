@@ -4,6 +4,7 @@ Postgres jira home export
 close to done
 
 again
+why no bug?
 
 
 1. Create a database

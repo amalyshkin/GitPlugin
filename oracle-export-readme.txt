@@ -7,6 +7,7 @@ new iteration
 why sc error again??
 error should be in log
 it seems to be fixed!
+the final test
 
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+Oracle

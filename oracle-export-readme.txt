@@ -13,6 +13,8 @@ direct way works!
 correct email address helps
 what in 3.3.10?
 new iteration
+why sc error again??
+
 
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+Oracle

@@ -1,21 +1,12 @@
 Oracle jira home export
 --------------------
 
-#comment
-#label
-#done taki
-only existing labels??
-label+comment
-what in 3.1.2?
-wtf with 312?
-on local?
-direct way works!
 correct email address helps
 what in 3.3.10?
 new iteration
 why sc error again??
 error should be in log
-
+it seems to be fixed!
 
 1. Create a database
 https://confluence.atlassian.com/display/JIRA/Connecting+JIRA+to+Oracle

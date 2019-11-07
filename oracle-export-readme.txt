@@ -14,6 +14,7 @@ correct email address helps
 what in 3.3.10?
 new iteration
 why sc error again??
+error should be in log
 
 
 1. Create a database

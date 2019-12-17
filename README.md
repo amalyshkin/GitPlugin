@@ -6,3 +6,4 @@ new email
 with hyphen??
 cancelled
 Stop progress
+reopen now

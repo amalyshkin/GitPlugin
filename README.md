@@ -17,3 +17,4 @@ has mail sent?
 In progress?
 1 moretime
 with dash
+notify me!

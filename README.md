@@ -19,3 +19,4 @@ In progress?
 with dash
 notify me!
 notify others
+report bug

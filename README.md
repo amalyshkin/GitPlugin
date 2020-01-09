@@ -22,3 +22,4 @@ notify others
 report bug
 test Tst
 test tst 2
+test good

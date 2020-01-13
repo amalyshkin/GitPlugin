@@ -25,3 +25,4 @@ test tst 2
 test good
 
 smcom test!
+affect

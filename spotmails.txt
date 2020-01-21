@@ -1,0 +1,135 @@
+{Selection} - {IP} has started successfully
+
+{Selection} https://{IP}/ has been started by {StartedBy} successfully.
+
+Branch: {Branch}
+
+Description: {Description}
+
+Started Time: {StartedTime}
+
+Expire Time: {ExpireTime}
+
+Time Remaining: {TimeRemaining}
+
+
+---
+
+
+{Selection} did not start successfully
+
+{Selection} https://{IP}/ has not been started.
+
+{StartedBy} tried to start this server with {Branch} branch at {StartedTime} with the description: {Description}.
+
+
+---
+
+
+Reservation for {Selection} - {IP} will expire in {TimeRemaining}
+
+Reservation for {Selection} https://{IP}/ will expire in {TimeRemaining}.
+
+It was started by {StartedBy} at {StartedTime} with {Branch} branch.
+
+The description was: {Description}.
+
+
+---
+
+
+Reservation for {Selection} is expired
+
+It was started by {StartedBy} at {StartedTime} with {Branch} branch.
+
+The description was: {Description}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////
+
+
+
+
+
+
+
+
+
+{Selection} - {IP} has started successfully
+
+{Selection} https://{IP}/ has been started by {StartedBy} successfully.
+
+Branch: {Branch}
+
+Description: {Description}
+
+Started Time: {StartedTime}
+
+Expire Time: {ExpireTime}
+
+Time Remaining: {TimeRemaining}
+
+---
+
+{Selection} did not start successfully
+
+{StartedBy} tried to start this server with {Branch} branch at {StartedTime} with the description: {Description}.
+
+---
+
+Reservation for {Selection} - {IP} will expire in {TimeRemaining}
+
+Reservation for {Selection} https://{IP}/ will expire in {TimeRemaining}.
+
+It was started at {StartedTime} with the description: {Description}.
+
+---
+
+Reservation for {Selection} - {IP} is expired
+
+https://{IP}/ was started by {StartedBy} at {StartedTime} with {Branch} branch.
+
+The description was: {Description}.
+
+
+------
+{Selection} {IP} has started successfully
+
+{Selection} https://{IP}/ has been started by {StartedBy} successfully.
+It will expire at {ExpireTime}.
+
+{Branch} branch is being built there for now.
+
+---
+
+{Selection} {IP} did not start successfully
+
+{Selection} https://{IP}/ has not been started.
+
+---
+
+Reservation for {Selection} {IP} will expire in {TimeRemaining}
+
+{Selection} https://{IP}/ will expire at {ExpireTime}.
+It was started at {StartedTime}.
+
+---
+
+Reservation for {Selection} {IP} is expired
+
+It was started by {StartedBy} at {StartedTime} with {Branch} branch.
+

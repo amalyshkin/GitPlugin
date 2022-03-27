@@ -1,8 +1,13 @@
+empty pull request
 + 7-Zip
+---- 866 кодироффка !
 + Adobe \ "Acrobat Reader DC"
++++ right
 + Android \ android-sdk 
-+ apache-maven-3.3.1
+right K1
 + Appium
+right K2
+zzz-zzz
 + Apple Software Update
 + CrISStal Eye
 + Far Manager

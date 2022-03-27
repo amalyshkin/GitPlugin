@@ -4,7 +4,7 @@
 + apache-maven-3.3.1
 + Appium
 + Apple Software Update
-+ CrISStal Eye
+- CrISStal Eye
 + Far Manager
 - Far2
 - Fiddler2
